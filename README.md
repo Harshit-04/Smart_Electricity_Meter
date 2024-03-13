@@ -1,6 +1,7 @@
 Assume you have something called an electric metre. This gadget allows you to keep track of how much power you're consuming in various locations, such as your lights and kitchen appliances.
 
 The gadget also features a simple menu that you may utilise:
+
   -You can specify how much power you're currently utilising.
   -You can determine if you are using too much in any area.
   -You can view how much power you have remaining in each category.
